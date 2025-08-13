@@ -1,0 +1,8 @@
+Count of combinations
+% num: 4
+dict_keys(['k_33'])
+(8,): 1
+(7,): 1
+(13,): 1
+(2,): 1
+time: 1.044947624206543

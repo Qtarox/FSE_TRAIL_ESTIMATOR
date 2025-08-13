@@ -1,0 +1,5 @@
+Count of combinations
+% num: 4
+dict_keys([])
+(): 4
+time: 0.39073848724365234

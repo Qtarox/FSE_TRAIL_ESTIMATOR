@@ -1,0 +1,6 @@
+Count of combinations
+% num: 2
+dict_keys(['k_16'])
+(9,): 1
+(15,): 1
+time: 0.37046194076538086

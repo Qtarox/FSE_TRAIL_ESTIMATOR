@@ -1,0 +1,3 @@
+1.  The GUASS folder under each kind of cipher contains the Gaussian Elimination Based Algorithm, which detect all minimal constraints within trails
+2. The CP_SOLVER includes the CP based solving Tool cons-solver which traverse all possible value of keys 
+3. The main file XXXX_VERIFIER is used to detect constraints, generate .mzn file for CP solver  and then solve all constraints to get the distribution of keys and trail probability

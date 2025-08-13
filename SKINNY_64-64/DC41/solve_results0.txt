@@ -1,0 +1,5 @@
+Count of combinations
+% num: 8
+dict_keys([])
+(): 8
+time: 0.9468226432800293

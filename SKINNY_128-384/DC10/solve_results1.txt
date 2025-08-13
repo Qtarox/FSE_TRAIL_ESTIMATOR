@@ -1,0 +1,5 @@
+Count of combinations
+% num: 52
+dict_keys([])
+(): 52
+time: 0.5128629207611084
