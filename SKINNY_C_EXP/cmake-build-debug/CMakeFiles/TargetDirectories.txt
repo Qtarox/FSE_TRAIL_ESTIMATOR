@@ -1,3 +1,3 @@
-D:/YURI/PHD_NTU/Auto_Solver2/SKINNY_C_EXP/cmake-build-debug/CMakeFiles/New_C.dir
-D:/YURI/PHD_NTU/Auto_Solver2/SKINNY_C_EXP/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/YURI/PHD_NTU/Auto_Solver2/SKINNY_C_EXP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/veri_diff/FSE_TRAIL_ESTIMATOR/SKINNY_C_EXP/cmake-build-debug/CMakeFiles/New_C.dir
+E:/veri_diff/FSE_TRAIL_ESTIMATOR/SKINNY_C_EXP/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/veri_diff/FSE_TRAIL_ESTIMATOR/SKINNY_C_EXP/cmake-build-debug/CMakeFiles/rebuild_cache.dir

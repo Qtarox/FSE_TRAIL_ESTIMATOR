@@ -61,7 +61,7 @@ if __name__=="__main__":
 
     # print("resluts: \n", RESDC5)
     cnt=1
-    gmat_res=RESDC4
+    gmat_res=RESDC11
     FINAL_RES=[]
     for i in range(len(gmat_res)):
         tmp=[]

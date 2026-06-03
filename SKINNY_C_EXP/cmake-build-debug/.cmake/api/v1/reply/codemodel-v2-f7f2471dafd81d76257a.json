@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "New_C::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-New_C-Debug-3426994c879ef660d24a.json",
+					"jsonFile" : "target-New_C-Debug-129e1edfccf1e3412f43.json",
 					"name" : "New_C",
 					"projectIndex" : 0
 				}
@@ -49,12 +49,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/YURI/PHD_NTU/Auto_Solver2/SKINNY_C_EXP/cmake-build-debug",
-		"source" : "D:/YURI/PHD_NTU/Auto_Solver2/SKINNY_C_EXP"
+		"build" : "E:/veri_diff/FSE_TRAIL_ESTIMATOR/SKINNY_C_EXP/cmake-build-debug",
+		"source" : "E:/veri_diff/FSE_TRAIL_ESTIMATOR/SKINNY_C_EXP"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 6
+		"minor" : 8
 	}
 }
