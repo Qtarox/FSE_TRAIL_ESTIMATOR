@@ -1,5 +1,6 @@
 These are the complete linear and nonlinear constraints detected by our tool. 
 Notation:
+0. variables in [] are initially active cell-wise variables, which is the source of restrictions 
 1. x^r_i (y^r_i) refers to input (output) of the i-th Sbox/nonlinear bijection in round r.
 2. k^r_j refers to the j-th subkey in round r
 3. S( ) refers to S-box in SKINNY, LBLOCK and TWINE
